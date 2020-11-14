@@ -1,4 +1,79 @@
 ## Tailwind
 
 
-- [Tailwind CSS Tips, Tricks & Best Practices (2020/04)](https://www.youtube.com/watch?v=nqNIy8HkEQ8)
+- https://www.getrevue.co/profile/tailwind-weekly
+
+
+#### Videos
+- [Tailwind CSS Tutorial for Beginners - Full Course (2020/05) - 2h30m](https://www.youtube.com/watch?v=4wGmylafgM4)
+- [CSS Grid – What's new in Tailwind CSS (2020/09) - 6m](https://www.youtube.com/watch?v=b-hrxkgkG-s)
+- [Tailwind CSS Tips, Tricks & Best Practices (2020/04) - 1h30m](https://www.youtube.com/watch?v=nqNIy8HkEQ8)
+
+- [My VSCode + Tailwind CSS Workflow Tips (Shortcuts and Extensions) (2020/05) - 22m](https://www.youtube.com/watch?v=qIHR2wmxy3U&t=1s)
+- [Adam Wathan - Tailwind CSS Best Practice Patterns (2019/08) - 31m](https://www.youtube.com/watch?v=J_7_mnFSLDg&t=2s)
+- [Using @apply with Complex Classes – What's new in Tailwind CSS (2020/09) - 6m](https://www.youtube.com/watch?v=naJ_rIK6ppQ)
+- [Divide Utilities – What's new in Tailwind CSS (2020/09) - 2m](https://www.youtube.com/watch?v=XVmbVtO3tUU)
+
+
+### Full videos
+
+- [Build a Gym Website Using The Tailwind Starter Kit (2020/10) - 41m](https://www.youtube.com/watch?v=mO3aXUgjnIE)
+- [Video Dashboard | Tailwind CSS | UI to Code | Timelapse | HTML CSS (2020/08) - 9m](https://www.youtube.com/watch?v=2dr4kOdJOGo)
+- [Tailwind Talk: "My Second Hour with Tailwind CSS" with Petr Tichy (2020/10) - 1h](https://www.youtube.com/watch?v=18I7bYe-e3o)
+- [Componentizing a Dashboard with Tailwind CSS (2020/08) - 1h20m](https://www.youtube.com/watch?v=wilxJLjuBp4)
+
+- [Prototyping Dark Mode for Tailwind CSS (2020/07) - 1h](https://www.youtube.com/watch?v=pgtx4mtFlME)
+
+
+
+- [Building a Responsive Navbar with TailwindCSS & Alpine.js [TUTORIAL] (2020/11) - 14m](https://www.youtube.com/watch?v=L6Jwa7al8os)
+
+
+
+
+- [Tailwind Talk: How do you convince your boss to use Tailwind CSS? With Debbie O'Brien (2020/10) - 1h30m](https://www.youtube.com/watch?v=D84pmKtQB3w)
+
+
+
+### Channels
+  - https://www.youtube.com/c/AdamWathan/videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Projects
+  - https://dev.to/mariann93502220/15-awesome-tailwind-css-templates-and-themes-55jh
+    - https://moesaid.github.io/cleopatra/index-1.html
+    - https://themeforest.net/item/topson-chat-messenger-app-html-template/26988802
+    - https://topson.left4code.com/index.html
+    - https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+
+
+
+
+### Components
+  - https://codepen.io/search/pens?q=tailwind
+  - https://tailwindcomponents.com/components/widget?page=6
+  - https://www.tailwindtoolbox.com/
+  - https://tailwind.build/#purchase
+  - https://www.vue-tailwind.com/docs/alert
+
+
+###
+  - https://play.tailwindcss.com/
+  - https://builtwithtailwind.com/
+  - https://nerdcave.com/tailwind-cheat-sheet
+
+
+
+
+https://www.notion.so/Tailwind-84ae72bcde2846f1967b3c1bbff8f6aa
