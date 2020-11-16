@@ -21,33 +21,12 @@
 - [Video Dashboard | Tailwind CSS | UI to Code | Timelapse | HTML CSS (2020/08) - 9m](https://www.youtube.com/watch?v=2dr4kOdJOGo)
 - [Tailwind Talk: "My Second Hour with Tailwind CSS" with Petr Tichy (2020/10) - 1h](https://www.youtube.com/watch?v=18I7bYe-e3o)
 - [Componentizing a Dashboard with Tailwind CSS (2020/08) - 1h20m](https://www.youtube.com/watch?v=wilxJLjuBp4)
-
 - [Prototyping Dark Mode for Tailwind CSS (2020/07) - 1h](https://www.youtube.com/watch?v=pgtx4mtFlME)
-
-
-
 - [Building a Responsive Navbar with TailwindCSS & Alpine.js [TUTORIAL] (2020/11) - 14m](https://www.youtube.com/watch?v=L6Jwa7al8os)
-
-
-
-
-- [Tailwind Talk: How do you convince your boss to use Tailwind CSS? With Debbie O'Brien (2020/10) - 1h30m](https://www.youtube.com/watch?v=D84pmKtQB3w)
-
 
 
 ### Channels
   - https://www.youtube.com/c/AdamWathan/videos
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Projects
@@ -58,8 +37,6 @@
     - https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
 
 
-
-
 ### Components
   - https://codepen.io/search/pens?q=tailwind
   - https://tailwindcomponents.com/components/widget?page=6
@@ -68,12 +45,12 @@
   - https://www.vue-tailwind.com/docs/alert
 
 
-###
+### Tools
   - https://play.tailwindcss.com/
   - https://builtwithtailwind.com/
   - https://nerdcave.com/tailwind-cheat-sheet
 
 
-
-
-https://www.notion.so/Tailwind-84ae72bcde2846f1967b3c1bbff8f6aa
+### Convincing
+- https://www.notion.so/Tailwind-84ae72bcde2846f1967b3c1bbff8f6aa
+- [Tailwind Talk: How do you convince your boss to use Tailwind CSS? With Debbie O'Brien (2020/10) - 1h30m](https://www.youtube.com/watch?v=D84pmKtQB3w)
