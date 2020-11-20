@@ -8,7 +8,6 @@
   - https://codepen.io/search/pens?q=tailwind
   - https://tailwindcomponents.com/
   - https://www.tailwindtoolbox.com/
-  - https://tailwind.build/ (commercial)
   - https://themesberg.com/blog/tailwind-css/themes
   - https://www.gustui.com/ (React)
   - https://www.vue-tailwind.com/ (Vue)
@@ -22,12 +21,25 @@
   - https://devdojo.com/tailwindcss/components (very nice!)
     - https://github.com/thedevdojo/tails
     - https://devdojo.com/tailwindcss/templates
+  - https://sailui.github.io/ui/
 
 
 ### Templates
+  - https://windmill-dashboard.vercel.app/
   - https://tailwindmade.com/
   - https://github.com/zeroblack-c/jakarta-lte (Jakarta LTE - Free and Open Source Premium Admin Templates)
   - https://github.com/creativetimofficial/tailwind-starter-kit - Tailwind Starter Kit
+  - https://github.com/tailwindadmin/admin (admin panel template built on tailwind css 🎉)
+  - https://github.com/wobsoriano/v-dashboard (Vue Admin)
+  - https://github.com/asvny/building-realworld-user-interfaces-using-tailwind (real UIs)
+  - https://github.com/moesaid/cleopatra (Admin Dashboard Template Built On Tailwind CSS)
+  - https://github.com/rosstopping/tailwindcss-templates
+
+### Commercial
+  - https://cruip.com/
+  - https://tailwind.build/ (commercial)
+  - https://zukoni.com/preview
+
 
 ### SVG Icons
   - https://blog.tailwindcss.com/introducing-heroicons
@@ -36,6 +48,7 @@
 ### Libraries
   - https://github.com/tailwindlabs/tailwindcss-custom-forms
   - https://www.npmjs.com/package/@tailwindcss/ui
+  - https://github.com/milesmcc/a17t (Atomic Design Toolkit)
 
 ### Tools
   - https://play.tailwindcss.com/
