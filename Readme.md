@@ -11,6 +11,8 @@
   - https://themesberg.com/blog/tailwind-css/themes
   - https://www.gustui.com/ (React)
   - https://www.vue-tailwind.com/ (Vue)
+  - https://smeltejs.com/ (Svelte)
+
 
 
 ### Great Components
@@ -18,10 +20,12 @@
   - https://tailwindesign.com/components/modal
   - https://mertjf.github.io/tailblocks/ - Tailblocks
   - https://merakiui.com/ - Meraki UI Components
+  - https://tailwindcss-forms.vercel.app/
   - https://devdojo.com/tailwindcss/components (very nice!)
     - https://github.com/thedevdojo/tails
     - https://devdojo.com/tailwindcss/templates
   - https://sailui.github.io/ui/
+  - https://github.com/sailui/ui
 
 
 ### Templates
@@ -49,11 +53,19 @@
   - https://github.com/tailwindlabs/tailwindcss-custom-forms
   - https://www.npmjs.com/package/@tailwindcss/ui
   - https://github.com/milesmcc/a17t (Atomic Design Toolkit)
+  - https://github.com/Arthie/tailwindcssinjs (Packages for using Tailwind CSS with CSS-in-JS)
+  - https://github.com/lorisleiva/tailwindcss-plugins
+  - https://livewire-datatables.com/
 
 ### Tools
   - https://play.tailwindcss.com/
   - https://builtwithtailwind.com/
   - https://nerdcave.com/tailwind-cheat-sheet
+  - https://umeshmk.github.io/Tailwindcss-cheatsheet/
+  - https://github.com/gojutin/tailwind-cheatsheet
+  - https://github.com/jorenvanhee/tailwindcss-debug-screens (A Tailwind CSS component that shows the currently active screen)
+  - https://github.com/heybourn/headwind An opinionated Tailwind CSS class sorter built for Visual Studio Code
+  - https://github.com/muhammadsammy/tailwindcss-classnames - Functional typed classnames for TailwindCSS -
 
 
 #### Videos
@@ -79,6 +91,7 @@
 
 ### Courses
   - https://coderstape.com/series/13-learn-tailwind-css-from-scratch (Learn Tailwind CSS From Scratch)
+  - https://github.com/embermap/emberconf2020-tailwind-css-best-practices
 
 ### Channels
   - https://www.youtube.com/c/AdamWathan/videos
@@ -95,3 +108,17 @@
 ### Convincing
   - https://www.notion.so/Tailwind-84ae72bcde2846f1967b3c1bbff8f6aa
   - [Tailwind Talk: How do you convince your boss to use Tailwind CSS? With Debbie O'Brien (2020/10) - 1h30m](https://www.youtube.com/watch?v=D84pmKtQB3w)
+
+
+
+
+
+
+
+
+
+
+
+
+### Alpine.js
+  - https://www.alptail.com/ (https://github.com/danieljpalmer/alptail)

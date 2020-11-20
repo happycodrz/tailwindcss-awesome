@@ -1,4 +1,32 @@
+https://github.com/asvny/building-realworld-user-interfaces-using-tailwind [] Building-real-user-interfaces-using-tailwind
+https://github.com/benface/tailwindcss-filters [] Tailwind CSS plugin to generate filter and backdrop filter utilities
+https://github.com/benface/tailwindcss-typography [] Tailwind CSS plugin to generate typography utilities and text style components
+https://github.com/clickfwd/ionic4-vue-tailwindcss-layouts []
+https://github.com/creativetimofficial/notus-svelte [] Notus Svelte: Free Tailwind CSS UI Kit and Admin (https://demos.creative-tim.com/notus-svelte/admin/dashboard)
 https://github.com/cruip/tailwind-landing-page-template [] Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by
+https://github.com/danharrin/alpine-tailwind-components [] Alpine.js and Tailwind CSS component source code from my YouTube tutorials.
+https://github.com/davidgrzyb/tailwind-admin-template [] An admin dashboard template built with Tailwind and Alpine.js
+https://github.com/dylanirlbeck/tailwind-ppx [] A Reason/OCaml Pre-Processor eXtension (PPX) that validates your Tailwind classes at compile-time.
+https://github.com/embermap/emberconf2020-tailwind-css-best-practices [] Tailwind CSS Tips, Tricks & Best Practices
+https://github.com/estevanmaito/tailwindcss-multi-theme [] 🎨 The easiest way to create themes with Tailwind CSS.
 https://github.com/estevanmaito/windmill-dashboard [] 📊 A multi theme, completely accessible, ready for production dashboard.
+https://github.com/gojutin/tailwind-cheatsheet [] A printable one-page cheatsheet for TailwindCSS.
+https://github.com/innocenzi/tailwindcss-scroll-snap [] Adds CSS Scroll Snap utilities to Tailwind CSS.
+https://github.com/jorenvanhee/tailwindcss-debug-screens [] A Tailwind CSS component that shows the currently active screen
+https://github.com/justalever/tailwind-airbnb [] A demo of how to build Airbnb's home page using Tailwind CSS
+https://github.com/justalever/tailwind-navbar [] A completely responsive CSS-only navbar using Tailwind CSS
+https://github.com/lorisleiva/tailwindcss-plugins [] 🔌🌊 Set of useful plugins for tailwindcss
+https://github.com/matyunya/smelte [] UI framework with material components built with Svelte and Tailwind CSS
+https://github.com/MedicOneSystems/livewire-datatables [] Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
+https://github.com/muhammadsammy/tailwindcss-classnames [] Functional typed classnames for TailwindCSS
+https://github.com/netcoresaas/saas-vuejs-tailwindcss [] Free VueJS (with TypeScript) + TailwindCSS frontend for SaaS apps.
 https://github.com/rosstopping/tailwindcss-templates [] Free layouts created using Tailwind CSS. New templates added weekly.
+https://github.com/sailui/ui [] Basic UI components for Tailwind CSS.
+https://github.com/tailwindlabs/tailwindcss-forms [] tailwindcss-forms.vercel.app
+https://github.com/tailwindtoolbox/Admin-Template-Day [] Tailwind CSS Starter Template - Admin Dashboard Template (Day Mode)
+https://github.com/tailwindtoolbox/Fixed-Header [] Tailwind CSS Starter Template - Fixed Header
 https://github.com/tailwindtoolbox/Landing-Page [] Tailwind CSS Starter Template - Landing Page
+https://github.com/tailwindtoolbox/Multi-Section-Form [] Tailwind CSS Starter Template - Multi Section Form with Scrollspy
+https://github.com/thedevdojo/tails [] Tails is a (no-config) copy'n paste library of templates and components crafted using TailwindCSS
+https://github.com/umeshmk/Tailwindcss-cheatsheet [] A very elegant and helpful Tailwindcss cheatsheet.
+https://github.com/wobsoriano/v-dashboard [] Dashboard starter template built with Vue 3 and Tailwind CSS.
