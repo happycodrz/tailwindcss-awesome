@@ -33,11 +33,14 @@
   - https://blog.tailwindcss.com/introducing-heroicons
   - https://heroicons.com/
 
+### Libraries
+  - https://github.com/tailwindlabs/tailwindcss-custom-forms
+  - https://www.npmjs.com/package/@tailwindcss/ui
+
 ### Tools
   - https://play.tailwindcss.com/
   - https://builtwithtailwind.com/
   - https://nerdcave.com/tailwind-cheat-sheet
-  - https://www.npmjs.com/package/@tailwindcss/ui
 
 
 #### Videos
