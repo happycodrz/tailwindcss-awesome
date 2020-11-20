@@ -2,23 +2,32 @@
 
 
 - https://www.getrevue.co/profile/tailwind-weekly
+- https://github.com/aniftyco/awesome-tailwindcss
 
 ### Components
   - https://codepen.io/search/pens?q=tailwind
-  - https://tailwindcomponents.com/components/widget?page=6
+  - https://tailwindcomponents.com/
   - https://www.tailwindtoolbox.com/
-  - https://tailwind.build/#purchase
-  - https://www.vue-tailwind.com/docs/alert
+  - https://tailwind.build/ (commercial)
   - https://themesberg.com/blog/tailwind-css/themes
+  - https://www.gustui.com/ (React)
+  - https://www.vue-tailwind.com/ (Vue)
+
+
+### Great Components
+  - https://kutty.netlify.app/components/
   - https://tailwindesign.com/components/modal
-  - https://merakiui.com/ - Meraki UI Components
   - https://mertjf.github.io/tailblocks/ - Tailblocks
-  - https://github.com/thedevdojo/tails
+  - https://merakiui.com/ - Meraki UI Components
+  - https://devdojo.com/tailwindcss/components (very nice!)
+    - https://github.com/thedevdojo/tails
     - https://devdojo.com/tailwindcss/templates
-    - https://devdojo.com/tailwindcss/components (very nice!)
 
-  - https://www.gustui.com/docs/application/components/alerts
 
+### Templates
+  - https://tailwindmade.com/
+  - https://github.com/zeroblack-c/jakarta-lte (Jakarta LTE - Free and Open Source Premium Admin Templates)
+  - https://github.com/creativetimofficial/tailwind-starter-kit - Tailwind Starter Kit
 
 ### SVG Icons
   - https://blog.tailwindcss.com/introducing-heroicons
