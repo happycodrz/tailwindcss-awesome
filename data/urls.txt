@@ -1,0 +1,4 @@
+https://github.com/cruip/tailwind-landing-page-template [] Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by
+https://github.com/estevanmaito/windmill-dashboard [] 📊 A multi theme, completely accessible, ready for production dashboard.
+https://github.com/rosstopping/tailwindcss-templates [] Free layouts created using Tailwind CSS. New templates added weekly.
+https://github.com/tailwindtoolbox/Landing-Page [] Tailwind CSS Starter Template - Landing Page
