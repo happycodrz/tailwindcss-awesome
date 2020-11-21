@@ -26,11 +26,14 @@
     - https://devdojo.com/tailwindcss/templates
   - https://sailui.github.io/ui/
   - https://github.com/sailui/ui
+  - https://www.themes.dev/library/tailwindcss-footer-pack/
+  - https://stitches.hyperyolo.com/ ()
 
 
 ### Templates
   - https://windmill-dashboard.vercel.app/
   - https://tailwindmade.com/
+  - https://tailwindtemplates.io/ (boost your development)
   - https://github.com/zeroblack-c/jakarta-lte (Jakarta LTE - Free and Open Source Premium Admin Templates)
   - https://github.com/creativetimofficial/tailwind-starter-kit - Tailwind Starter Kit
   - https://github.com/tailwindadmin/admin (admin panel template built on tailwind css 🎉)
@@ -38,6 +41,8 @@
   - https://github.com/asvny/building-realworld-user-interfaces-using-tailwind (real UIs)
   - https://github.com/moesaid/cleopatra (Admin Dashboard Template Built On Tailwind CSS)
   - https://github.com/rosstopping/tailwindcss-templates
+  - https://templates.digizu.co.uk/ - Free Layouts & Templates ()
+  - https://www.codeinwp.com/blog/tailwind-css-templates/ (LINKS)
 
 ### Commercial
   - https://cruip.com/
@@ -50,7 +55,7 @@
   - https://heroicons.com/
 
 ### Libraries
-  - https://github.com/tailwindlabs/tailwindcss-custom-forms
+  - https://github.com/tailwindlabs/tailwindcss-custom-forms (https://tailwindcss-custom-forms.netlify.app/)
   - https://www.npmjs.com/package/@tailwindcss/ui
   - https://github.com/milesmcc/a17t (Atomic Design Toolkit)
   - https://github.com/Arthie/tailwindcssinjs (Packages for using Tailwind CSS with CSS-in-JS)
@@ -58,6 +63,7 @@
   - https://livewire-datatables.com/
 
 ### Tools
+  - https://tailwind-typography-playground.vercel.app/
   - https://play.tailwindcss.com/
   - https://builtwithtailwind.com/
   - https://nerdcave.com/tailwind-cheat-sheet
@@ -77,6 +83,7 @@
   - [Adam Wathan - Tailwind CSS Best Practice Patterns (2019/08) - 31m](https://www.youtube.com/watch?v=J_7_mnFSLDg&t=2s)
   - [Using @apply with Complex Classes – What's new in Tailwind CSS (2020/09) - 6m](https://www.youtube.com/watch?v=naJ_rIK6ppQ)
   - [Divide Utilities – What's new in Tailwind CSS (2020/09) - 2m](https://www.youtube.com/watch?v=XVmbVtO3tUU)
+  - [RAPIDLY Create UI Designs in Minutes with Tailblocks - 2020/05 - 20m](https://www.youtube.com/watch?v=ST3fmk8UG8I)
 
 
 ### Full videos
@@ -90,8 +97,10 @@
 
 
 ### Courses
+  - https://scrimba.com/learn/tailwind - Learn Tailwind CSS for free
   - https://coderstape.com/series/13-learn-tailwind-css-from-scratch (Learn Tailwind CSS From Scratch)
   - https://github.com/embermap/emberconf2020-tailwind-css-best-practices
+  - https://www.youtube.com/watch?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR&v=21HuwjmuS7A&index=1 (https://github.com/tailwindlabs/designing-with-tailwindcss)
 
 ### Channels
   - https://www.youtube.com/c/AdamWathan/videos
@@ -112,8 +121,14 @@
 
 
 
-
-
+### Articles
+  - https://nystudio107.com/blog/speeding-up-tailwind-css-builds
+  - https://ttntm.me/blog/tailwind-responsive-menu/
+  - https://dev.to/joserfelix/why-use-tailwind-css-for-your-next-project-39hp
+  - https://news.ycombinator.com/item?id=25140604  (Tailwind 2.0 on HN)
+  - https://laravel-news.com/tailwind-css-tips-and-tricks (2020/08)
+  - https://blog.logrocket.com/10-tailwind-css-tips-to-boost-your-productivity/ (2020/05)
+  - https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18/comments
 
 
 
