@@ -1,6 +1,7 @@
 https://github.com/asvny/building-realworld-user-interfaces-using-tailwind [] Building-real-user-interfaces-using-tailwind
 https://github.com/benface/tailwindcss-filters [] Tailwind CSS plugin to generate filter and backdrop filter utilities
 https://github.com/benface/tailwindcss-typography [] Tailwind CSS plugin to generate typography utilities and text style components
+https://github.com/caneco/design-tips []
 https://github.com/clickfwd/ionic4-vue-tailwindcss-layouts []
 https://github.com/creativetimofficial/notus-svelte [] Notus Svelte: Free Tailwind CSS UI Kit and Admin (https://demos.creative-tim.com/notus-svelte/admin/dashboard)
 https://github.com/cruip/tailwind-landing-page-template [] Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by
@@ -22,6 +23,7 @@ https://github.com/muhammadsammy/tailwindcss-classnames [] Functional typed clas
 https://github.com/netcoresaas/saas-vuejs-tailwindcss [] Free VueJS (with TypeScript) + TailwindCSS frontend for SaaS apps.
 https://github.com/rosstopping/tailwindcss-templates [] Free layouts created using Tailwind CSS. New templates added weekly.
 https://github.com/sailui/ui [] Basic UI components for Tailwind CSS.
+https://github.com/tailwindcomponents/dashboard [] 🛩 🧶 Dashboard template built with tailwindcss.
 https://github.com/tailwindlabs/tailwindcss-forms [] tailwindcss-forms.vercel.app
 https://github.com/tailwindtoolbox/Admin-Template-Day [] Tailwind CSS Starter Template - Admin Dashboard Template (Day Mode)
 https://github.com/tailwindtoolbox/Fixed-Header [] Tailwind CSS Starter Template - Fixed Header
@@ -30,3 +32,5 @@ https://github.com/tailwindtoolbox/Multi-Section-Form [] Tailwind CSS Starter Te
 https://github.com/thedevdojo/tails [] Tails is a (no-config) copy'n paste library of templates and components crafted using TailwindCSS
 https://github.com/umeshmk/Tailwindcss-cheatsheet [] A very elegant and helpful Tailwindcss cheatsheet.
 https://github.com/wobsoriano/v-dashboard [] Dashboard starter template built with Vue 3 and Tailwind CSS.
+https://github.com/rosstopping/tailwindcss-templates [] Free layouts created using Tailwind CSS. New templates added weekly.
+
