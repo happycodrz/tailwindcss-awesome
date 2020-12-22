@@ -12,10 +12,12 @@
   - https://www.gustui.com/ (React)
   - https://www.vue-tailwind.com/ (Vue)
   - https://smeltejs.com/ (Svelte)
+  - https://chakra-ui.com/docs/comparison (React, very-very good!)
 
 
 
 ### Great Components
+  - https://kitwind.io/products/kometa/components (awesome!)
   - https://kutty.netlify.app/components/
   - https://tailwindesign.com/components/modal
   - https://mertjf.github.io/tailblocks/ - Tailblocks
@@ -28,6 +30,7 @@
   - https://github.com/sailui/ui
   - https://www.themes.dev/library/tailwindcss-footer-pack/
   - https://stitches.hyperyolo.com/ ()
+  - https://blocks.wickedtemplates.com/ (OK, couple good ones)
 
 
 ### Templates
@@ -46,9 +49,17 @@
 
 ### Commercial
   - https://cruip.com/
+  - https://tailwinduikit.com/docs (quite awesome...)
   - https://tailwind.build/ (commercial)
   - https://zukoni.com/preview
+  - https://demo.frontted.com/tailstack/1.2.1/Pages/ui-forms.html (quite good components)
+  - https://themeforest.net/item/topson-chat-messenger-app-html-template/26988802
+  - https://themeforest.net/tags/tailwind
 
+
+### Theming
+  - https://pinegrow.com/tutorials/customizing-a-tailwind-css-theme/
+  - https://tailwinduikit.com/docs
 
 ### SVG Icons
   - https://blog.tailwindcss.com/introducing-heroicons
@@ -63,7 +74,7 @@
   - https://livewire-datatables.com/
 
 ### Tools
-  - https://tailwind-typography-playground.vercel.app/
+  - https://tailwind-typography-playground.vercel.app/ (Fonts)
   - https://play.tailwindcss.com/
   - https://builtwithtailwind.com/
   - https://nerdcave.com/tailwind-cheat-sheet
@@ -84,6 +95,7 @@
   - [Using @apply with Complex Classes – What's new in Tailwind CSS (2020/09) - 6m](https://www.youtube.com/watch?v=naJ_rIK6ppQ)
   - [Divide Utilities – What's new in Tailwind CSS (2020/09) - 2m](https://www.youtube.com/watch?v=XVmbVtO3tUU)
   - [RAPIDLY Create UI Designs in Minutes with Tailblocks - 2020/05 - 20m](https://www.youtube.com/watch?v=ST3fmk8UG8I)
+  - [A Real-Life Journey Into the Opinionated - 2018](https://vimeo.com/294976504)
 
 
 ### Full videos
@@ -117,6 +129,7 @@
 ### Convincing
   - https://www.notion.so/Tailwind-84ae72bcde2846f1967b3c1bbff8f6aa
   - [Tailwind Talk: How do you convince your boss to use Tailwind CSS? With Debbie O'Brien (2020/10) - 1h30m](https://www.youtube.com/watch?v=D84pmKtQB3w)
+  - https://www.reddit.com/r/tailwindcss/comments/j60sga/i_am_not_convinced_by_tailwind_change_my_mind/
 
 
 
@@ -132,8 +145,11 @@
 
 
 
-
-
-
 ### Alpine.js
   - https://www.alptail.com/ (https://github.com/danieljpalmer/alptail)
+
+
+
+
+### Design
+  - https://www.checklist.design/
