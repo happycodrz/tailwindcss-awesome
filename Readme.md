@@ -31,6 +31,7 @@
   - https://www.themes.dev/library/tailwindcss-footer-pack/
   - https://stitches.hyperyolo.com/ ()
   - https://blocks.wickedtemplates.com/ (OK, couple good ones)
+  - https://owaiskhan.me/post/free-tailwindcss-react-ui-kit (React)
 
 
 ### Templates
@@ -109,10 +110,12 @@
 
 
 ### Courses
+  - https://www.tailwindcss.cn/screencasts/ -> official course, really great!
   - https://scrimba.com/learn/tailwind - Learn Tailwind CSS for free
   - https://coderstape.com/series/13-learn-tailwind-css-from-scratch (Learn Tailwind CSS From Scratch)
   - https://github.com/embermap/emberconf2020-tailwind-css-best-practices
   - https://www.youtube.com/watch?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR&v=21HuwjmuS7A&index=1 (https://github.com/tailwindlabs/designing-with-tailwindcss)
+  - https://egghead.io/playlists/design-and-implement-common-tailwind-components-8fbb9b19 - Design and Implement Common Tailwind Components
 
 ### Channels
   - https://www.youtube.com/c/AdamWathan/videos
