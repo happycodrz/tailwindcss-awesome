@@ -1,6 +1,7 @@
 ## Tailwind
 
 
+- https://mockupless.com/Courses/LayoutBasics/Positioning/ (CSS crashcourse for noobs)
 - https://www.getrevue.co/profile/tailwind-weekly
 - https://github.com/aniftyco/awesome-tailwindcss
 
