@@ -21,6 +21,8 @@
   - https://kitwind.io/products/kometa/components (awesome!)
   - https://kutty.netlify.app/components/
   - https://tailwindesign.com/components/modal
+  - https://blocks.wickedtemplates.com/
+    - https://github.com/michael-andreuzza/wickedblocks
   - https://mertjf.github.io/tailblocks/ - Tailblocks
   - https://merakiui.com/ - Meraki UI Components
   - https://tailwindcss-forms.vercel.app/
