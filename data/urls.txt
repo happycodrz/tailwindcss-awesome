@@ -24,7 +24,6 @@ https://github.com/MedicOneSystems/livewire-datatables [] Advanced datatables us
 https://github.com/muhammadsammy/tailwindcss-classnames [] Functional typed classnames for TailwindCSS
 https://github.com/netcoresaas/saas-vuejs-tailwindcss [] Free VueJS (with TypeScript) + TailwindCSS frontend for SaaS apps.
 https://github.com/rosstopping/tailwindcss-templates [] Free layouts created using Tailwind CSS. New templates added weekly.
-https://github.com/rosstopping/tailwindcss-templates [] Free layouts created using Tailwind CSS. New templates added weekly.
 https://github.com/sailui/ui [] Basic UI components for Tailwind CSS.
 https://github.com/tailwindcomponents/dashboard [] 🛩 🧶 Dashboard template built with tailwindcss.
 https://github.com/tailwindlabs/tailwindcss-forms [] tailwindcss-forms.vercel.app
