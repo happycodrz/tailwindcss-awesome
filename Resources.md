@@ -147,6 +147,7 @@
 
 ### Articles
 
+- https://areknawo.com/tailwind-jsx-and-class-composition/
 - https://nystudio107.com/blog/speeding-up-tailwind-css-builds
 - https://ttntm.me/blog/tailwind-responsive-menu/
 - https://dev.to/joserfelix/why-use-tailwind-css-for-your-next-project-39hp
