@@ -2,6 +2,7 @@ https://github.com/asvny/building-realworld-user-interfaces-using-tailwind [] Bu
 https://github.com/benface/tailwindcss-filters [] Tailwind CSS plugin to generate filter and backdrop filter utilities
 https://github.com/benface/tailwindcss-typography [] Tailwind CSS plugin to generate typography utilities and text style components
 https://github.com/caneco/design-tips []
+https://github.com/Charlie85270/tail-kit [] Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 https://github.com/clickfwd/ionic4-vue-tailwindcss-layouts []
 https://github.com/creativetimofficial/notus-svelte [] Notus Svelte: Free Tailwind CSS UI Kit and Admin (https://demos.creative-tim.com/notus-svelte/admin/dashboard)
 https://github.com/cruip/tailwind-landing-page-template [] Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by
@@ -9,6 +10,7 @@ https://github.com/danharrin/alpine-tailwind-components [] Alpine.js and Tailwin
 https://github.com/davidgrzyb/tailwind-admin-template [] An admin dashboard template built with Tailwind and Alpine.js
 https://github.com/dylanirlbeck/tailwind-ppx [] A Reason/OCaml Pre-Processor eXtension (PPX) that validates your Tailwind classes at compile-time.
 https://github.com/embermap/emberconf2020-tailwind-css-best-practices [] Tailwind CSS Tips, Tricks & Best Practices
+https://github.com/enochndika/kimia-UI [] A collection of UI Components for React built with Tailwind CSS 2.0
 https://github.com/estevanmaito/tailwindcss-multi-theme [] 🎨 The easiest way to create themes with Tailwind CSS.
 https://github.com/estevanmaito/windmill-dashboard [] 📊 A multi theme, completely accessible, ready for production dashboard.
 https://github.com/gojutin/tailwind-cheatsheet [] A printable one-page cheatsheet for TailwindCSS.

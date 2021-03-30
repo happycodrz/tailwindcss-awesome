@@ -1,161 +1,189 @@
-## Tailwind
+## Tailwind CSS Awesome
 
+## Running the update
 
-- https://mockupless.com/Courses/LayoutBasics/Positioning/ (CSS crashcourse for noobs)
-- https://www.getrevue.co/profile/tailwind-weekly
-- https://github.com/aniftyco/awesome-tailwindcss
+```bash
+$ make update
+```
 
-### Components
-  - https://codepen.io/search/pens?q=tailwind
-  - https://tailwindcomponents.com/
-  - https://www.tailwindtoolbox.com/
-  - https://themesberg.com/blog/tailwind-css/themes
-  - https://www.gustui.com/ (React)
-  - https://www.vue-tailwind.com/ (Vue)
-  - https://smeltejs.com/ (Svelte)
-  - https://chakra-ui.com/docs/comparison (React, very-very good!)
+### Navigation
 
+- [By Name](#by-name)
+- [By Activity](#by-activity)
+- [By CommitCount](#by-commitcount)
+- [By Popularity](#by-popularity)
 
+### By Name
 
-### Great Components
-  - https://kitwind.io/products/kometa/components (awesome!)
-  - https://kutty.netlify.app/components/
-  - https://tailwindesign.com/components/modal
-  - https://blocks.wickedtemplates.com/
-    - https://github.com/michael-andreuzza/wickedblocks
-  - https://mertjf.github.io/tailblocks/ - Tailblocks
-  - https://merakiui.com/ - Meraki UI Components
-  - https://tailwindcss-forms.vercel.app/
-  - https://devdojo.com/tailwindcss/components (very nice!)
-    - https://github.com/thedevdojo/tails
-    - https://devdojo.com/tailwindcss/templates
-  - https://sailui.github.io/ui/
-  - https://github.com/sailui/ui
-  - https://www.themes.dev/library/tailwindcss-footer-pack/
-  - https://stitches.hyperyolo.com/ ()
-  - https://blocks.wickedtemplates.com/ (OK, couple good ones)
-  - https://owaiskhan.me/post/free-tailwindcss-react-ui-kit (React)
+<!-- PROJECTS_LIST -->
+- [asvny/building-realworld-user-interfaces-using-tailwind](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Demo of building real-world UIs using TailwindCSS <br/> ( 2020-11-18 / 20 commits / 14 stars )
+- [benface/tailwindcss-filters](https://github.com/benface/tailwindcss-filters) - Tailwind CSS plugin to generate filter and backdrop filter utilities <br/> ( 2020-07-19 / 21 commits / 8 stars )
+- [benface/tailwindcss-typography](https://github.com/benface/tailwindcss-typography) - Tailwind CSS plugin to generate typography utilities and text style components <br/> ( 2020-07-19 / 49 commits / 7 stars )
+- [caneco/design-tips](https://github.com/caneco/design-tips) - The “🔥 Design Tips” series, now in TailwindCSS <br/> ( 2019-05-05 / 10 commits / 16 stars )
+- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0. <br/> ( 2021-03-24 / 232 commits / 141 stars )
+- [clickfwd/ionic4-vue-tailwindcss-layouts](https://github.com/clickfwd/ionic4-vue-tailwindcss-layouts) - Ionic 4, Vue, Tailwind CSS demo app showcasing different layouts: list, list with virtual scroll, grid, cards, widget slider, modal <br/> ( 2019-11-26 / 4 commits / 6 stars )
+- [creativetimofficial/notus-svelte](https://github.com/creativetimofficial/notus-svelte) - Notus Svelte: Free Tailwind CSS UI Kit and Admin <br/> ( 2021-03-19 / 408 commits / 24 stars )
+- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by <br/> ( 2020-10-20 / 7 commits / 120 stars )
+- [danharrin/alpine-tailwind-components](https://github.com/danharrin/alpine-tailwind-components) - Alpine.js and Tailwind CSS component source code from my YouTube tutorials. <br/> ( 2021-01-26 / 13 commits / 26 stars )
+- [davidgrzyb/tailwind-admin-template](https://github.com/davidgrzyb/tailwind-admin-template) - An admin dashboard template built with Tailwind and Alpine.js <br/> ( 2021-01-07 / 19 commits / 51 stars )
+- [dylanirlbeck/tailwind-ppx](https://github.com/dylanirlbeck/tailwind-ppx) - A Reason/OCaml Pre-Processor eXtension (PPX) that validates your Tailwind classes at compile-time. <br/> ( 2020-11-29 / 281 commits / 16 stars )
+- [embermap/emberconf2020-tailwind-css-best-practices](https://github.com/embermap/emberconf2020-tailwind-css-best-practices) - Tailwind CSS Tips, Tricks & Best Practices <br/> ( 2020-04-20 / 20 commits / 29 stars )
+- [enochndika/kimia-UI](https://github.com/enochndika/kimia-UI) - A collection of UI Components  for React built with Tailwind CSS 2.0 <br/> ( 2021-03-24 / 144 commits / 11 stars )
+- [estevanmaito/tailwindcss-multi-theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - 🎨 The easiest way to create themes with Tailwind CSS. <br/> ( 2020-10-19 / 43 commits / 15 stars )
+- [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard. <br/> ( 2020-08-05 / 94 commits / 156 stars )
+- [gojutin/tailwind-cheatsheet](https://github.com/gojutin/tailwind-cheatsheet) - A printable one-page cheatsheet for TailwindCSS. <br/> ( 2020-11-10 / 9 commits / 15 stars )
+- [innocenzi/tailwindcss-scroll-snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - CSS Scroll Snap utilities for Tailwind CSS <br/> ( 2021-02-13 / 54 commits / 8 stars )
+- [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint). <br/> ( 2020-11-23 / 16 commits / 7 stars )
+- [justalever/tailwind-airbnb](https://github.com/justalever/tailwind-airbnb) - A demo of how to build Airbnb's home page using Tailwind CSS <br/> ( 2020-06-05 / 8 commits / 9 stars )
+- [justalever/tailwind-navbar](https://github.com/justalever/tailwind-navbar) - A completely responsive CSS-only navbar using Tailwind CSS <br/> ( 2020-09-18 / 5 commits / 23 stars )
+- [lorisleiva/tailwindcss-plugins](https://github.com/lorisleiva/tailwindcss-plugins) - 🔌🌊 Set of useful plugins for tailwindcss <br/> ( 2019-08-10 / 66 commits / 13 stars )
+- [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS <br/> ( 2021-02-24 / 693 commits / 80 stars )
+- [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS <br/> ( 2021-01-28 / 103 commits / 89 stars )
+- [muhammadsammy/tailwindcss-classnames](https://github.com/muhammadsammy/tailwindcss-classnames) - Functional typed classnames for TailwindCSS <br/> ( 2021-02-25 / 445 commits / 19 stars )
+- [netcoresaas/saas-vuejs-tailwindcss](https://github.com/netcoresaas/saas-vuejs-tailwindcss) - VueJS + TailwindCSS frontend for SaaS apps. <br/> ( 2020-12-08 / 18 commits / 9 stars )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> ( 2021-03-25 / 50 commits / 42 stars )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> ( 2021-03-25 / 50 commits / 42 stars )
+- [sailui/ui](https://github.com/sailui/ui) - Basic UI components for Tailwind CSS. <br/> ( 2020-12-04 / 50 commits / 3 stars )
+- [tailwindcomponents/dashboard](https://github.com/tailwindcomponents/dashboard) - 🛩 🧶 Dashboard template built with tailwindcss. <br/> ( 2020-09-26 / 26 commits / 39 stars )
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) -  <br/> ( 2021-03-26 / 63 commits / 34 stars )
+- [tailwindtoolbox/Admin-Template-Day](https://github.com/tailwindtoolbox/Admin-Template-Day) - Tailwind CSS Starter Template - Admin Dashboard Template (Day Mode) <br/> ( 2020-11-19 / 10 commits / 34 stars )
+- [tailwindtoolbox/Fixed-Header](https://github.com/tailwindtoolbox/Fixed-Header) - Tailwind CSS Starter Template - Fixed Header <br/> ( 2019-05-16 / 6 commits / 4 stars )
+- [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page <br/> ( 2020-11-26 / 31 commits / 204 stars )
+- [tailwindtoolbox/Multi-Section-Form](https://github.com/tailwindtoolbox/Multi-Section-Form) - Tailwind CSS Starter Template - Multi Section Form with Scrollspy <br/> ( 2020-11-19 / 4 commits / 5 stars )
+- [thedevdojo/tails](https://github.com/thedevdojo/tails) - Tails is a (no-config) copy'n paste library of templates and components crafted using TailwindCSS <br/> ( 2020-12-02 / 367 commits / 294 stars )
+- [umeshmk/Tailwindcss-cheatsheet](https://github.com/umeshmk/Tailwindcss-cheatsheet) - A very elegant and helpful Tailwindcss cheatsheet. <br/> ( 2021-03-08 / 10 commits / 8 stars )
+- [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS. <br/> ( 2021-03-07 / 51 commits / 92 stars )
+<!-- /PROJECTS_LIST -->
 
+[⬆ Navigation](#navigation)
 
-### Templates
-  - https://windmill-dashboard.vercel.app/
-  - https://tailwindmade.com/
-  - https://tailwindtemplates.io/ (boost your development)
-  - https://github.com/zeroblack-c/jakarta-lte (Jakarta LTE - Free and Open Source Premium Admin Templates)
-  - https://github.com/creativetimofficial/tailwind-starter-kit - Tailwind Starter Kit
-  - https://github.com/tailwindadmin/admin (admin panel template built on tailwind css 🎉)
-  - https://github.com/wobsoriano/v-dashboard (Vue Admin)
-  - https://github.com/asvny/building-realworld-user-interfaces-using-tailwind (real UIs)
-  - https://github.com/moesaid/cleopatra (Admin Dashboard Template Built On Tailwind CSS)
-  - https://github.com/rosstopping/tailwindcss-templates
-  - https://templates.digizu.co.uk/ - Free Layouts & Templates ()
-  - https://www.codeinwp.com/blog/tailwind-css-templates/ (LINKS)
+### By CommitCount
 
-### Commercial
-  - https://cruip.com/
-  - https://tailwinduikit.com/docs (quite awesome...)
-  - https://tailwind.build/ (commercial)
-  - https://zukoni.com/preview
-  - https://demo.frontted.com/tailstack/1.2.1/Pages/ui-forms.html (quite good components)
-  - https://themeforest.net/item/topson-chat-messenger-app-html-template/26988802
-  - https://themeforest.net/tags/tailwind
+<!-- COMMITCOUNT_LIST -->
+- [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS <br/> (693 commits / 80 stars / 2021-02-24 )
+- [muhammadsammy/tailwindcss-classnames](https://github.com/muhammadsammy/tailwindcss-classnames) - Functional typed classnames for TailwindCSS <br/> (445 commits / 19 stars / 2021-02-25 )
+- [creativetimofficial/notus-svelte](https://github.com/creativetimofficial/notus-svelte) - Notus Svelte: Free Tailwind CSS UI Kit and Admin <br/> (408 commits / 24 stars / 2021-03-19 )
+- [thedevdojo/tails](https://github.com/thedevdojo/tails) - Tails is a (no-config) copy'n paste library of templates and components crafted using TailwindCSS <br/> (367 commits / 294 stars / 2020-12-02 )
+- [dylanirlbeck/tailwind-ppx](https://github.com/dylanirlbeck/tailwind-ppx) - A Reason/OCaml Pre-Processor eXtension (PPX) that validates your Tailwind classes at compile-time. <br/> (281 commits / 16 stars / 2020-11-29 )
+- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0. <br/> (232 commits / 141 stars / 2021-03-24 )
+- [enochndika/kimia-UI](https://github.com/enochndika/kimia-UI) - A collection of UI Components  for React built with Tailwind CSS 2.0 <br/> (144 commits / 11 stars / 2021-03-24 )
+- [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS <br/> (103 commits / 89 stars / 2021-01-28 )
+- [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard. <br/> (94 commits / 156 stars / 2020-08-05 )
+- [lorisleiva/tailwindcss-plugins](https://github.com/lorisleiva/tailwindcss-plugins) - 🔌🌊 Set of useful plugins for tailwindcss <br/> (66 commits / 13 stars / 2019-08-10 )
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) -  <br/> (63 commits / 34 stars / 2021-03-26 )
+- [innocenzi/tailwindcss-scroll-snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - CSS Scroll Snap utilities for Tailwind CSS <br/> (54 commits / 8 stars / 2021-02-13 )
+- [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS. <br/> (51 commits / 92 stars / 2021-03-07 )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> (50 commits / 42 stars / 2021-03-25 )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> (50 commits / 42 stars / 2021-03-25 )
+- [sailui/ui](https://github.com/sailui/ui) - Basic UI components for Tailwind CSS. <br/> (50 commits / 3 stars / 2020-12-04 )
+- [benface/tailwindcss-typography](https://github.com/benface/tailwindcss-typography) - Tailwind CSS plugin to generate typography utilities and text style components <br/> (49 commits / 7 stars / 2020-07-19 )
+- [estevanmaito/tailwindcss-multi-theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - 🎨 The easiest way to create themes with Tailwind CSS. <br/> (43 commits / 15 stars / 2020-10-19 )
+- [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page <br/> (31 commits / 204 stars / 2020-11-26 )
+- [tailwindcomponents/dashboard](https://github.com/tailwindcomponents/dashboard) - 🛩 🧶 Dashboard template built with tailwindcss. <br/> (26 commits / 39 stars / 2020-09-26 )
+- [benface/tailwindcss-filters](https://github.com/benface/tailwindcss-filters) - Tailwind CSS plugin to generate filter and backdrop filter utilities <br/> (21 commits / 8 stars / 2020-07-19 )
+- [asvny/building-realworld-user-interfaces-using-tailwind](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Demo of building real-world UIs using TailwindCSS <br/> (20 commits / 14 stars / 2020-11-18 )
+- [embermap/emberconf2020-tailwind-css-best-practices](https://github.com/embermap/emberconf2020-tailwind-css-best-practices) - Tailwind CSS Tips, Tricks & Best Practices <br/> (20 commits / 29 stars / 2020-04-20 )
+- [davidgrzyb/tailwind-admin-template](https://github.com/davidgrzyb/tailwind-admin-template) - An admin dashboard template built with Tailwind and Alpine.js <br/> (19 commits / 51 stars / 2021-01-07 )
+- [netcoresaas/saas-vuejs-tailwindcss](https://github.com/netcoresaas/saas-vuejs-tailwindcss) - VueJS + TailwindCSS frontend for SaaS apps. <br/> (18 commits / 9 stars / 2020-12-08 )
+- [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint). <br/> (16 commits / 7 stars / 2020-11-23 )
+- [danharrin/alpine-tailwind-components](https://github.com/danharrin/alpine-tailwind-components) - Alpine.js and Tailwind CSS component source code from my YouTube tutorials. <br/> (13 commits / 26 stars / 2021-01-26 )
+- [caneco/design-tips](https://github.com/caneco/design-tips) - The “🔥 Design Tips” series, now in TailwindCSS <br/> (10 commits / 16 stars / 2019-05-05 )
+- [tailwindtoolbox/Admin-Template-Day](https://github.com/tailwindtoolbox/Admin-Template-Day) - Tailwind CSS Starter Template - Admin Dashboard Template (Day Mode) <br/> (10 commits / 34 stars / 2020-11-19 )
+- [umeshmk/Tailwindcss-cheatsheet](https://github.com/umeshmk/Tailwindcss-cheatsheet) - A very elegant and helpful Tailwindcss cheatsheet. <br/> (10 commits / 8 stars / 2021-03-08 )
+- [gojutin/tailwind-cheatsheet](https://github.com/gojutin/tailwind-cheatsheet) - A printable one-page cheatsheet for TailwindCSS. <br/> (9 commits / 15 stars / 2020-11-10 )
+- [justalever/tailwind-airbnb](https://github.com/justalever/tailwind-airbnb) - A demo of how to build Airbnb's home page using Tailwind CSS <br/> (8 commits / 9 stars / 2020-06-05 )
+- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by <br/> (7 commits / 120 stars / 2020-10-20 )
+- [tailwindtoolbox/Fixed-Header](https://github.com/tailwindtoolbox/Fixed-Header) - Tailwind CSS Starter Template - Fixed Header <br/> (6 commits / 4 stars / 2019-05-16 )
+- [justalever/tailwind-navbar](https://github.com/justalever/tailwind-navbar) - A completely responsive CSS-only navbar using Tailwind CSS <br/> (5 commits / 23 stars / 2020-09-18 )
+- [clickfwd/ionic4-vue-tailwindcss-layouts](https://github.com/clickfwd/ionic4-vue-tailwindcss-layouts) - Ionic 4, Vue, Tailwind CSS demo app showcasing different layouts: list, list with virtual scroll, grid, cards, widget slider, modal <br/> (4 commits / 6 stars / 2019-11-26 )
+- [tailwindtoolbox/Multi-Section-Form](https://github.com/tailwindtoolbox/Multi-Section-Form) - Tailwind CSS Starter Template - Multi Section Form with Scrollspy <br/> (4 commits / 5 stars / 2020-11-19 )
+<!-- /COMMITCOUNT_LIST -->
+  [⬆ Navigation](#navigation)
 
+### By Activity
 
-### Theming
-  - https://pinegrow.com/tutorials/customizing-a-tailwind-css-theme/
-  - https://tailwinduikit.com/docs
+<!-- ACTIVITY_LIST -->
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) -  <br/> ( 2021-03-26 / 63 commits / 34 stars )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> ( 2021-03-25 / 50 commits / 42 stars )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> ( 2021-03-25 / 50 commits / 42 stars )
+- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0. <br/> ( 2021-03-24 / 232 commits / 141 stars )
+- [enochndika/kimia-UI](https://github.com/enochndika/kimia-UI) - A collection of UI Components  for React built with Tailwind CSS 2.0 <br/> ( 2021-03-24 / 144 commits / 11 stars )
+- [creativetimofficial/notus-svelte](https://github.com/creativetimofficial/notus-svelte) - Notus Svelte: Free Tailwind CSS UI Kit and Admin <br/> ( 2021-03-19 / 408 commits / 24 stars )
+- [umeshmk/Tailwindcss-cheatsheet](https://github.com/umeshmk/Tailwindcss-cheatsheet) - A very elegant and helpful Tailwindcss cheatsheet. <br/> ( 2021-03-08 / 10 commits / 8 stars )
+- [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS. <br/> ( 2021-03-07 / 51 commits / 92 stars )
+- [muhammadsammy/tailwindcss-classnames](https://github.com/muhammadsammy/tailwindcss-classnames) - Functional typed classnames for TailwindCSS <br/> ( 2021-02-25 / 445 commits / 19 stars )
+- [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS <br/> ( 2021-02-24 / 693 commits / 80 stars )
+- [innocenzi/tailwindcss-scroll-snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - CSS Scroll Snap utilities for Tailwind CSS <br/> ( 2021-02-13 / 54 commits / 8 stars )
+- [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS <br/> ( 2021-01-28 / 103 commits / 89 stars )
+- [danharrin/alpine-tailwind-components](https://github.com/danharrin/alpine-tailwind-components) - Alpine.js and Tailwind CSS component source code from my YouTube tutorials. <br/> ( 2021-01-26 / 13 commits / 26 stars )
+- [davidgrzyb/tailwind-admin-template](https://github.com/davidgrzyb/tailwind-admin-template) - An admin dashboard template built with Tailwind and Alpine.js <br/> ( 2021-01-07 / 19 commits / 51 stars )
+- [netcoresaas/saas-vuejs-tailwindcss](https://github.com/netcoresaas/saas-vuejs-tailwindcss) - VueJS + TailwindCSS frontend for SaaS apps. <br/> ( 2020-12-08 / 18 commits / 9 stars )
+- [sailui/ui](https://github.com/sailui/ui) - Basic UI components for Tailwind CSS. <br/> ( 2020-12-04 / 50 commits / 3 stars )
+- [thedevdojo/tails](https://github.com/thedevdojo/tails) - Tails is a (no-config) copy'n paste library of templates and components crafted using TailwindCSS <br/> ( 2020-12-02 / 367 commits / 294 stars )
+- [dylanirlbeck/tailwind-ppx](https://github.com/dylanirlbeck/tailwind-ppx) - A Reason/OCaml Pre-Processor eXtension (PPX) that validates your Tailwind classes at compile-time. <br/> ( 2020-11-29 / 281 commits / 16 stars )
+- [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page <br/> ( 2020-11-26 / 31 commits / 204 stars )
+- [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint). <br/> ( 2020-11-23 / 16 commits / 7 stars )
+- [tailwindtoolbox/Multi-Section-Form](https://github.com/tailwindtoolbox/Multi-Section-Form) - Tailwind CSS Starter Template - Multi Section Form with Scrollspy <br/> ( 2020-11-19 / 4 commits / 5 stars )
+- [tailwindtoolbox/Admin-Template-Day](https://github.com/tailwindtoolbox/Admin-Template-Day) - Tailwind CSS Starter Template - Admin Dashboard Template (Day Mode) <br/> ( 2020-11-19 / 10 commits / 34 stars )
+- [asvny/building-realworld-user-interfaces-using-tailwind](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Demo of building real-world UIs using TailwindCSS <br/> ( 2020-11-18 / 20 commits / 14 stars )
+- [gojutin/tailwind-cheatsheet](https://github.com/gojutin/tailwind-cheatsheet) - A printable one-page cheatsheet for TailwindCSS. <br/> ( 2020-11-10 / 9 commits / 15 stars )
+- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by <br/> ( 2020-10-20 / 7 commits / 120 stars )
+- [estevanmaito/tailwindcss-multi-theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - 🎨 The easiest way to create themes with Tailwind CSS. <br/> ( 2020-10-19 / 43 commits / 15 stars )
+- [tailwindcomponents/dashboard](https://github.com/tailwindcomponents/dashboard) - 🛩 🧶 Dashboard template built with tailwindcss. <br/> ( 2020-09-26 / 26 commits / 39 stars )
+- [justalever/tailwind-navbar](https://github.com/justalever/tailwind-navbar) - A completely responsive CSS-only navbar using Tailwind CSS <br/> ( 2020-09-18 / 5 commits / 23 stars )
+- [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard. <br/> ( 2020-08-05 / 94 commits / 156 stars )
+- [benface/tailwindcss-typography](https://github.com/benface/tailwindcss-typography) - Tailwind CSS plugin to generate typography utilities and text style components <br/> ( 2020-07-19 / 49 commits / 7 stars )
+- [benface/tailwindcss-filters](https://github.com/benface/tailwindcss-filters) - Tailwind CSS plugin to generate filter and backdrop filter utilities <br/> ( 2020-07-19 / 21 commits / 8 stars )
+- [justalever/tailwind-airbnb](https://github.com/justalever/tailwind-airbnb) - A demo of how to build Airbnb's home page using Tailwind CSS <br/> ( 2020-06-05 / 8 commits / 9 stars )
+- [embermap/emberconf2020-tailwind-css-best-practices](https://github.com/embermap/emberconf2020-tailwind-css-best-practices) - Tailwind CSS Tips, Tricks & Best Practices <br/> ( 2020-04-20 / 20 commits / 29 stars )
+- [clickfwd/ionic4-vue-tailwindcss-layouts](https://github.com/clickfwd/ionic4-vue-tailwindcss-layouts) - Ionic 4, Vue, Tailwind CSS demo app showcasing different layouts: list, list with virtual scroll, grid, cards, widget slider, modal <br/> ( 2019-11-26 / 4 commits / 6 stars )
+- [lorisleiva/tailwindcss-plugins](https://github.com/lorisleiva/tailwindcss-plugins) - 🔌🌊 Set of useful plugins for tailwindcss <br/> ( 2019-08-10 / 66 commits / 13 stars )
+- [tailwindtoolbox/Fixed-Header](https://github.com/tailwindtoolbox/Fixed-Header) - Tailwind CSS Starter Template - Fixed Header <br/> ( 2019-05-16 / 6 commits / 4 stars )
+- [caneco/design-tips](https://github.com/caneco/design-tips) - The “🔥 Design Tips” series, now in TailwindCSS <br/> ( 2019-05-05 / 10 commits / 16 stars )
+<!-- /ACTIVITY_LIST -->
 
-### SVG Icons
-  - https://blog.tailwindcss.com/introducing-heroicons
-  - https://heroicons.com/
+[⬆ Navigation](#navigation)
 
-### Libraries
-  - https://github.com/tailwindlabs/tailwindcss-custom-forms (https://tailwindcss-custom-forms.netlify.app/)
-  - https://www.npmjs.com/package/@tailwindcss/ui
-  - https://github.com/milesmcc/a17t (Atomic Design Toolkit)
-  - https://github.com/Arthie/tailwindcssinjs (Packages for using Tailwind CSS with CSS-in-JS)
-  - https://github.com/lorisleiva/tailwindcss-plugins
-  - https://livewire-datatables.com/
+### By Popularity
 
-### Tools
-  - https://tailwind-typography-playground.vercel.app/ (Fonts)
-  - https://play.tailwindcss.com/
-  - https://builtwithtailwind.com/
-  - https://nerdcave.com/tailwind-cheat-sheet
-  - https://umeshmk.github.io/Tailwindcss-cheatsheet/
-  - https://github.com/gojutin/tailwind-cheatsheet
-  - https://github.com/jorenvanhee/tailwindcss-debug-screens (A Tailwind CSS component that shows the currently active screen)
-  - https://github.com/heybourn/headwind An opinionated Tailwind CSS class sorter built for Visual Studio Code
-  - https://github.com/muhammadsammy/tailwindcss-classnames - Functional typed classnames for TailwindCSS -
+<!-- POPULARITY_LIST -->
+- [thedevdojo/tails](https://github.com/thedevdojo/tails) - Tails is a (no-config) copy'n paste library of templates and components crafted using TailwindCSS <br/> (294 stars / 2020-12-02 / 367 commits )
+- [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page <br/> (204 stars / 2020-11-26 / 31 commits )
+- [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard. <br/> (156 stars / 2020-08-05 / 94 commits )
+- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0. <br/> (141 stars / 2021-03-24 / 232 commits )
+- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by <br/> (120 stars / 2020-10-20 / 7 commits )
+- [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS. <br/> (92 stars / 2021-03-07 / 51 commits )
+- [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS <br/> (89 stars / 2021-01-28 / 103 commits )
+- [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS <br/> (80 stars / 2021-02-24 / 693 commits )
+- [davidgrzyb/tailwind-admin-template](https://github.com/davidgrzyb/tailwind-admin-template) - An admin dashboard template built with Tailwind and Alpine.js <br/> (51 stars / 2021-01-07 / 19 commits )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> (42 stars / 2021-03-25 / 50 commits )
+- [rosstopping/tailwindcss-templates](https://github.com/rosstopping/tailwindcss-templates) - Free templates & layouts created using Tailwind CSS. <br/> (42 stars / 2021-03-25 / 50 commits )
+- [tailwindcomponents/dashboard](https://github.com/tailwindcomponents/dashboard) - 🛩 🧶 Dashboard template built with tailwindcss. <br/> (39 stars / 2020-09-26 / 26 commits )
+- [tailwindtoolbox/Admin-Template-Day](https://github.com/tailwindtoolbox/Admin-Template-Day) - Tailwind CSS Starter Template - Admin Dashboard Template (Day Mode) <br/> (34 stars / 2020-11-19 / 10 commits )
+- [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) -  <br/> (34 stars / 2021-03-26 / 63 commits )
+- [embermap/emberconf2020-tailwind-css-best-practices](https://github.com/embermap/emberconf2020-tailwind-css-best-practices) - Tailwind CSS Tips, Tricks & Best Practices <br/> (29 stars / 2020-04-20 / 20 commits )
+- [danharrin/alpine-tailwind-components](https://github.com/danharrin/alpine-tailwind-components) - Alpine.js and Tailwind CSS component source code from my YouTube tutorials. <br/> (26 stars / 2021-01-26 / 13 commits )
+- [creativetimofficial/notus-svelte](https://github.com/creativetimofficial/notus-svelte) - Notus Svelte: Free Tailwind CSS UI Kit and Admin <br/> (24 stars / 2021-03-19 / 408 commits )
+- [justalever/tailwind-navbar](https://github.com/justalever/tailwind-navbar) - A completely responsive CSS-only navbar using Tailwind CSS <br/> (23 stars / 2020-09-18 / 5 commits )
+- [muhammadsammy/tailwindcss-classnames](https://github.com/muhammadsammy/tailwindcss-classnames) - Functional typed classnames for TailwindCSS <br/> (19 stars / 2021-02-25 / 445 commits )
+- [caneco/design-tips](https://github.com/caneco/design-tips) - The “🔥 Design Tips” series, now in TailwindCSS <br/> (16 stars / 2019-05-05 / 10 commits )
+- [dylanirlbeck/tailwind-ppx](https://github.com/dylanirlbeck/tailwind-ppx) - A Reason/OCaml Pre-Processor eXtension (PPX) that validates your Tailwind classes at compile-time. <br/> (16 stars / 2020-11-29 / 281 commits )
+- [estevanmaito/tailwindcss-multi-theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - 🎨 The easiest way to create themes with Tailwind CSS. <br/> (15 stars / 2020-10-19 / 43 commits )
+- [gojutin/tailwind-cheatsheet](https://github.com/gojutin/tailwind-cheatsheet) - A printable one-page cheatsheet for TailwindCSS. <br/> (15 stars / 2020-11-10 / 9 commits )
+- [asvny/building-realworld-user-interfaces-using-tailwind](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Demo of building real-world UIs using TailwindCSS <br/> (14 stars / 2020-11-18 / 20 commits )
+- [lorisleiva/tailwindcss-plugins](https://github.com/lorisleiva/tailwindcss-plugins) - 🔌🌊 Set of useful plugins for tailwindcss <br/> (13 stars / 2019-08-10 / 66 commits )
+- [enochndika/kimia-UI](https://github.com/enochndika/kimia-UI) - A collection of UI Components  for React built with Tailwind CSS 2.0 <br/> (11 stars / 2021-03-24 / 144 commits )
+- [justalever/tailwind-airbnb](https://github.com/justalever/tailwind-airbnb) - A demo of how to build Airbnb's home page using Tailwind CSS <br/> (9 stars / 2020-06-05 / 8 commits )
+- [netcoresaas/saas-vuejs-tailwindcss](https://github.com/netcoresaas/saas-vuejs-tailwindcss) - VueJS + TailwindCSS frontend for SaaS apps. <br/> (9 stars / 2020-12-08 / 18 commits )
+- [benface/tailwindcss-filters](https://github.com/benface/tailwindcss-filters) - Tailwind CSS plugin to generate filter and backdrop filter utilities <br/> (8 stars / 2020-07-19 / 21 commits )
+- [innocenzi/tailwindcss-scroll-snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - CSS Scroll Snap utilities for Tailwind CSS <br/> (8 stars / 2021-02-13 / 54 commits )
+- [umeshmk/Tailwindcss-cheatsheet](https://github.com/umeshmk/Tailwindcss-cheatsheet) - A very elegant and helpful Tailwindcss cheatsheet. <br/> (8 stars / 2021-03-08 / 10 commits )
+- [benface/tailwindcss-typography](https://github.com/benface/tailwindcss-typography) - Tailwind CSS plugin to generate typography utilities and text style components <br/> (7 stars / 2020-07-19 / 49 commits )
+- [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint). <br/> (7 stars / 2020-11-23 / 16 commits )
+- [clickfwd/ionic4-vue-tailwindcss-layouts](https://github.com/clickfwd/ionic4-vue-tailwindcss-layouts) - Ionic 4, Vue, Tailwind CSS demo app showcasing different layouts: list, list with virtual scroll, grid, cards, widget slider, modal <br/> (6 stars / 2019-11-26 / 4 commits )
+- [tailwindtoolbox/Multi-Section-Form](https://github.com/tailwindtoolbox/Multi-Section-Form) - Tailwind CSS Starter Template - Multi Section Form with Scrollspy <br/> (5 stars / 2020-11-19 / 4 commits )
+- [tailwindtoolbox/Fixed-Header](https://github.com/tailwindtoolbox/Fixed-Header) - Tailwind CSS Starter Template - Fixed Header <br/> (4 stars / 2019-05-16 / 6 commits )
+- [sailui/ui](https://github.com/sailui/ui) - Basic UI components for Tailwind CSS. <br/> (3 stars / 2020-12-04 / 50 commits )
+<!-- /POPULARITY_LIST -->
 
-
-#### Videos
-  - [Tailwind CSS Tutorial for Beginners - Full Course (2020/05) - 2h30m](https://www.youtube.com/watch?v=4wGmylafgM4)
-  - [CSS Grid – What's new in Tailwind CSS (2020/09) - 6m](https://www.youtube.com/watch?v=b-hrxkgkG-s)
-  - [Tailwind CSS Tips, Tricks & Best Practices (2020/04) - 1h30m](https://www.youtube.com/watch?v=nqNIy8HkEQ8)
-
-  - [My VSCode + Tailwind CSS Workflow Tips (Shortcuts and Extensions) (2020/05) - 22m](https://www.youtube.com/watch?v=qIHR2wmxy3U&t=1s)
-  - [Adam Wathan - Tailwind CSS Best Practice Patterns (2019/08) - 31m](https://www.youtube.com/watch?v=J_7_mnFSLDg&t=2s)
-  - [Using @apply with Complex Classes – What's new in Tailwind CSS (2020/09) - 6m](https://www.youtube.com/watch?v=naJ_rIK6ppQ)
-  - [Divide Utilities – What's new in Tailwind CSS (2020/09) - 2m](https://www.youtube.com/watch?v=XVmbVtO3tUU)
-  - [RAPIDLY Create UI Designs in Minutes with Tailblocks - 2020/05 - 20m](https://www.youtube.com/watch?v=ST3fmk8UG8I)
-  - [A Real-Life Journey Into the Opinionated - 2018](https://vimeo.com/294976504)
-
-
-### Full videos
-
-  - [Build a Gym Website Using The Tailwind Starter Kit (2020/10) - 41m](https://www.youtube.com/watch?v=mO3aXUgjnIE)
-  - [Video Dashboard | Tailwind CSS | UI to Code | Timelapse | HTML CSS (2020/08) - 9m](https://www.youtube.com/watch?v=2dr4kOdJOGo)
-  - [Tailwind Talk: "My Second Hour with Tailwind CSS" with Petr Tichy (2020/10) - 1h](https://www.youtube.com/watch?v=18I7bYe-e3o)
-  - [Componentizing a Dashboard with Tailwind CSS (2020/08) - 1h20m](https://www.youtube.com/watch?v=wilxJLjuBp4)
-  - [Prototyping Dark Mode for Tailwind CSS (2020/07) - 1h](https://www.youtube.com/watch?v=pgtx4mtFlME)
-  - [Building a Responsive Navbar with TailwindCSS & Alpine.js [TUTORIAL] (2020/11) - 14m](https://www.youtube.com/watch?v=L6Jwa7al8os)
-
-
-### Courses
-  - https://www.tailwindcss.cn/screencasts/ -> official course, really great!
-  - https://scrimba.com/learn/tailwind - Learn Tailwind CSS for free
-  - https://coderstape.com/series/13-learn-tailwind-css-from-scratch (Learn Tailwind CSS From Scratch)
-  - https://github.com/embermap/emberconf2020-tailwind-css-best-practices
-  - https://www.youtube.com/watch?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR&v=21HuwjmuS7A&index=1 (https://github.com/tailwindlabs/designing-with-tailwindcss)
-  - https://egghead.io/playlists/design-and-implement-common-tailwind-components-8fbb9b19 - Design and Implement Common Tailwind Components
-
-### Channels
-  - https://www.youtube.com/c/AdamWathan/videos
-
-
-### Projects
-  - https://dev.to/mariann93502220/15-awesome-tailwind-css-templates-and-themes-55jh
-    - https://moesaid.github.io/cleopatra/index-1.html
-    - https://themeforest.net/item/topson-chat-messenger-app-html-template/26988802
-    - https://topson.left4code.com/index.html
-    - https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
-
-
-### Convincing
-  - https://www.notion.so/Tailwind-84ae72bcde2846f1967b3c1bbff8f6aa
-  - [Tailwind Talk: How do you convince your boss to use Tailwind CSS? With Debbie O'Brien (2020/10) - 1h30m](https://www.youtube.com/watch?v=D84pmKtQB3w)
-  - https://www.reddit.com/r/tailwindcss/comments/j60sga/i_am_not_convinced_by_tailwind_change_my_mind/
-
-
-
-
-### Articles
-  - https://nystudio107.com/blog/speeding-up-tailwind-css-builds
-  - https://ttntm.me/blog/tailwind-responsive-menu/
-  - https://dev.to/joserfelix/why-use-tailwind-css-for-your-next-project-39hp
-  - https://news.ycombinator.com/item?id=25140604  (Tailwind 2.0 on HN)
-  - https://laravel-news.com/tailwind-css-tips-and-tricks (2020/08)
-  - https://blog.logrocket.com/10-tailwind-css-tips-to-boost-your-productivity/ (2020/05)
-  - https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18/comments
-
-
-
-### Alpine.js
-  - https://www.alptail.com/ (https://github.com/danieljpalmer/alptail)
-
-
-
-
-### Design
-  - https://www.checklist.design/
+[⬆ Navigation](#navigation)
