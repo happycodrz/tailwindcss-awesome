@@ -21,7 +21,7 @@
 - https://kimia-ui.vercel.app/
 
 ### Great Components
-
+- https://daisyui.com/ (quite good!)
 - https://kitwind.io/products/kometa/components (awesome!)
 - https://kutty.netlify.app/components/
 - https://tailwindesign.com/components/modal
