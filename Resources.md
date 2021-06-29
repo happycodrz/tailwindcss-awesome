@@ -17,6 +17,8 @@
 
 ### REACT
 
+- https://treact.owaiskhan.me/ 
+- https://github.com/estevanmaito/windmill-react-ui (with Typescript)
 - https://www.tailwind-kit.com/
 - https://kimia-ui.vercel.app/
 
