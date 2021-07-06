@@ -23,6 +23,7 @@
 - https://kimia-ui.vercel.app/
 
 ### Great Components
+- https://devdojo.com/tailwindcss/buttons (buttons)
 - https://daisyui.com/ (quite good!)
 - https://kitwind.io/products/kometa/components (awesome!)
 - https://kutty.netlify.app/components/
