@@ -87,17 +87,44 @@
 - https://github.com/lorisleiva/tailwindcss-plugins
 - https://livewire-datatables.com/
 
-### Tools
 
+### Tools - general
+- https://www.tailwindtoolbox.com/tools
+- https://tailwind-match.netlify.app/ (Find the nearest value to your design 🎨)
+- https://tailwind.spacet.me/ (SEARCH matching classes)
+
+### Tools - Colors
+- https://tailwind.ink/
+- https://www.tailwind-tools.com/color
+- https://quoorex.com/tailwindize/ - Color picker
+- https://beyondco.de/software/tint - The color picker for Tailwind CSS developers.
+
+
+### Tools - Generators
+- https://tailwindgrids.com/
+- https://www.tailwind-tools.com/flexbox
+- https://www.tailwind-tools.com/grid
+- https://www.tailwind-tools.com/typography
+
+### Tools - Converters
+- https://usewindy.com/ - the browser extension that transforms any HTML element into a Tailwind CSS component
+- https://tailwind-converter.netlify.app/ - CSS TAILWIND CONVERTER
+  - https://github.com/stevezease/tailwind-converter
+
+- https://github.com/beyondcode/tailwindcss-jit-cdn - Tailwind CSS JIT in your browser (!!!)
+  - https://beyondco.de/blog/tailwind-jit-compiler-via-cdn
 - https://tailwind-typography-playground.vercel.app/ (Fonts)
 - https://play.tailwindcss.com/
 - https://builtwithtailwind.com/
+
+### Tools - Cheatsheets
 - https://nerdcave.com/tailwind-cheat-sheet
 - https://umeshmk.github.io/Tailwindcss-cheatsheet/
 - https://github.com/gojutin/tailwind-cheatsheet
 - https://github.com/jorenvanhee/tailwindcss-debug-screens (A Tailwind CSS component that shows the currently active screen)
 - https://github.com/heybourn/headwind An opinionated Tailwind CSS class sorter built for Visual Studio Code
 - https://github.com/muhammadsammy/tailwindcss-classnames - Functional typed classnames for TailwindCSS -
+  - https://github.com/muhammadsammy/tailwindcss-classnames/blob/master/src/cli/index.ts (code generator!)
 
 #### Videos
 
