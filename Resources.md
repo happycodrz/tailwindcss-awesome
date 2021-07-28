@@ -132,6 +132,10 @@
 - https://github.com/muhammadsammy/tailwindcss-classnames - Functional typed classnames for TailwindCSS -
   - https://github.com/muhammadsammy/tailwindcss-classnames/blob/master/src/cli/index.ts (code generator!)
 
+### Learning
+
+- https://30daysoftailwindcss.com/ (challenges)
+
 #### Videos
 
 - [Tailwind CSS Tutorial for Beginners - Full Course (2020/05) - 2h30m](https://www.youtube.com/watch?v=4wGmylafgM4)
