@@ -17,12 +17,13 @@
 
 ### REACT
 
-- https://treact.owaiskhan.me/ 
+- https://treact.owaiskhan.me/
 - https://github.com/estevanmaito/windmill-react-ui (with Typescript)
 - https://www.tailwind-kit.com/
 - https://kimia-ui.vercel.app/
 
 ### Great Components
+
 - https://devdojo.com/tailwindcss/buttons (buttons)
 - https://daisyui.com/ (quite good!)
 - https://kitwind.io/products/kometa/components (awesome!)
@@ -87,28 +88,32 @@
 - https://github.com/lorisleiva/tailwindcss-plugins
 - https://livewire-datatables.com/
 
-
 ### Tools - general
+
 - https://www.tailwindtoolbox.com/tools
 - https://tailwind-match.netlify.app/ (Find the nearest value to your design 🎨)
 - https://tailwind.spacet.me/ (SEARCH matching classes)
 
 ### Tools - Colors
+
 - https://tailwind.ink/
 - https://www.tailwind-tools.com/color
 - https://quoorex.com/tailwindize/ - Color picker
 - https://beyondco.de/software/tint - The color picker for Tailwind CSS developers.
-
+- https://tnt.studio/tailwind/shades/generator - Shades geneerator (with automatic matching names!)
 
 ### Tools - Generators
+
 - https://tailwindgrids.com/
 - https://www.tailwind-tools.com/flexbox
 - https://www.tailwind-tools.com/grid
 - https://www.tailwind-tools.com/typography
 
 ### Tools - Converters
+
 - https://usewindy.com/ - the browser extension that transforms any HTML element into a Tailwind CSS component
 - https://tailwind-converter.netlify.app/ - CSS TAILWIND CONVERTER
+
   - https://github.com/stevezease/tailwind-converter
 
 - https://github.com/beyondcode/tailwindcss-jit-cdn - Tailwind CSS JIT in your browser (!!!)
@@ -118,6 +123,7 @@
 - https://builtwithtailwind.com/
 
 ### Tools - Cheatsheets
+
 - https://nerdcave.com/tailwind-cheat-sheet
 - https://umeshmk.github.io/Tailwindcss-cheatsheet/
 - https://github.com/gojutin/tailwind-cheatsheet
