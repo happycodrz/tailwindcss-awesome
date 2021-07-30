@@ -24,6 +24,9 @@
 
 ### Great Components
 
+
+- https://www.tailwindawesome.com/ (Collection for components)
+- https://wickedblocks.dev/ Ready Made Tailwind CSS blocks for your next project.
 - https://devdojo.com/tailwindcss/buttons (buttons)
 - https://daisyui.com/ (quite good!)
 - https://kitwind.io/products/kometa/components (awesome!)
