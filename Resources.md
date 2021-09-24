@@ -25,6 +25,7 @@
 ### Great Components
 
 
+- https://flowbite.com/docs/components/ (nice collection, with JS)
 - https://www.tailwindawesome.com/ (Collection for components)
 - https://wickedblocks.dev/ Ready Made Tailwind CSS blocks for your next project.
 - https://devdojo.com/tailwindcss/buttons (buttons)
